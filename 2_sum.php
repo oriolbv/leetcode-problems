@@ -19,3 +19,5 @@ for ($i = 0; $i < count($nums); ++$i) {
   }
 }
 ?>
+
+https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/
